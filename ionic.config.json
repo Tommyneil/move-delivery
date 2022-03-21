@@ -1,0 +1,8 @@
+{
+  "name": "Move Delivery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "03b4721c"
+}
